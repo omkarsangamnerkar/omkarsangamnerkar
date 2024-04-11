@@ -3,7 +3,7 @@
 <h2 align="center">I'm Omkar Sangamnerkar, Welcome to my Github</h2>
 
 <p align='center'>
-  🎓 <strong>Graduate Data Science Student at University of Maryland, Baltimore County</strong> 🎓<br/>
+  🎓 <strong>Data Science Graduate from University of Maryland, Baltimore County</strong> 🎓<br/>
 
  
   I'm Omkar Sangamnerkar, I have a strong background in Data Analysis and Machine Learning. I'm currently seeking a role where I can leverage my skills to tackle complex data science challenges and forge a fulfilling career. When I'm not immersed in the world of data, you can find me indulging in a few other passions: Chess, Speed Cubing or Music mostly.
