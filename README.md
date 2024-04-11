@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 👨🏽‍💻 I’m interested in data science, Machine Learning learning, NLP, AI and more.
+- 👨🏽‍💻 I’m interested in data engineering, problem solving, business analysis, customer interaction 
 - 💬 Ask me about anything, I am happy to help.
 - [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out!.
 - [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
@@ -36,9 +36,7 @@
 ---
 
 ### 🌐 Portfolio and Contributions:
-- [LinkedIn](https://www.linkedin.com/in/sunilhule/)
-- [Portfolio Website](https://efthimiosvlahos-github-io.vercel.app/)
-- [LeetCode](https://leetcode.com/sunilhule4444/)
+- [LinkedIn](https://www.linkedin.com/in/omkar-sangamnerkar/)
 
 ---
 ### Languages and Tools
