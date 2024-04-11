@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 👨🏽‍💻 I’m interested in data engineering, problem solving, business analysis, customer interaction 
+- 👨🏽‍💻 I’m interested in data engineering, data analysis, problem solving, business analysis, customer interaction 
 - 💬 Ask me about anything, I am happy to help.
 - [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out!.
 - [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
