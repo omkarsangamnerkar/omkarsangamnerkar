@@ -6,7 +6,7 @@
   🎓 <strong>Data Science Graduate from University of Maryland, Baltimore County</strong> 🎓<br/>
 
  
-  I'm Omkar Sangamnerkar, I have a strong background in Data Analysis and Machine Learning. I'm currently seeking a role where I can leverage my skills to tackle complex data science challenges and forge a fulfilling career. When I'm not immersed in the world of data, you can find me indulging in a few other passions: Chess, Speed Cubing or Music mostly.
+  I'm Omkar Sangamnerkar, with a strong Data Analysis and Machine Learning background. I'm seeking a role where I can leverage my skills to tackle complex data science challenges and forge a fulfilling career. When I'm not immersed in the world of data, you can find me indulging in a few other passions: Chess, Speed Cubing or Music mostly.
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
  
@@ -16,7 +16,7 @@
 
 - 👨🏽‍💻 I’m interested in data science, Machine Learning learning, NLP, AI and more.
 - 💬 Ask me about anything, I am happy to help.
-- [📫](mailto:sunilh1@umbc.edu) 👈 Send me an email if you want to reach me out!.
+- [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out!.
 - [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
 
 
