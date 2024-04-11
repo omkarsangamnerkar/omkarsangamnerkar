@@ -6,7 +6,7 @@
   🎓 <strong>Graduate Data Science Student at University of Maryland, Baltimore County</strong> 🎓<br/>
 
  
-  I'm [Sunil Hule](https://efthimiosvlahos-github-io.vercel.app/), I have a strong background in Data Analysis and Machine Learning. I'm currently seeking a role where I can leverage my skills to tackle complex data science challenges and forge a fulfilling career. When I'm not immersed in the world of data, you can find me indulging in a few other passions: Chess, Speed Cubing or Music mostly.
+  I'm [Omkar Sangamnerkar](https://efthimiosvlahos-github-io.vercel.app/), I have a strong background in Data Analysis and Machine Learning. I'm currently seeking a role where I can leverage my skills to tackle complex data science challenges and forge a fulfilling career. When I'm not immersed in the world of data, you can find me indulging in a few other passions: Chess, Speed Cubing or Music mostly.
 
   <img align="right" alt="GIF" src="./assets/img/sun.gif?raw=true" width="430" height="270" />
  
