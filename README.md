@@ -15,9 +15,7 @@
 <br/>
 
 - 👨🏽‍💻 I’m interested in data engineering, data analysis, problem solving, business analysis, customer interaction 
-- 💬 Ask me about anything, I am happy to help.
-- [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out!.
-- [📝](https://efthimiosvlahos-github-io.vercel.app/about) 👈 Here you cand find my résumé.
+- [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out.
 
 
 <br/>
@@ -29,9 +27,10 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, PyTorch, Scikit-Learn, PySpark, Pandas, NumPy, NLTK), R, SQL(PostgreSQL, MySQL, BigQuery)
-- **Machine Learning**: Supervised & Unsupervised Learning, Deep Learning, NLP, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tuning
-- **DevOps, Data Visualization & MLOps**: Tableau, Power BI, MS-Excel, Git, GitHub
+- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, PyTorch, Scikit-Learn, PySpark, Pandas, NumPy), SQL(PostgreSQL)
+- **Machine Learning**: Supervised & Unsupervised Learning, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tunin:
+- **DevOps, Data Visualization & MLOps**: Mage-Ai, Databricks, Tableau, MS-Excel, Git, GitHub
+- **Database/Datawarehouse**": BigQuery, MySQL, Azure Data Lake Gen2
 
 ---
 
