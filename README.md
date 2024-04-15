@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 👨🏽‍💻 I’m interested in data engineering, data analysis, problem solving, business analysis, customer interaction 
+- 👨🏽‍💻 I’m interested in data engineering, data analysis, problem-solving, business analysis, customer interaction 
 - [📫](mailto:omkarsangam05@gmail.com) 👈 Send me an email if you want to reach me out.
 
 
@@ -27,10 +27,12 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming**: Python(TensorFlow, PyTorch, Scikit-Learn, PySpark, Pandas, NumPy), SQL(PostgreSQL)
-- **Machine Learning**: Supervised & Unsupervised Learning, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tunin:
-- **DevOps, Data Visualization & MLOps**: Mage-Ai(ETL), Databricks, Tableau, MS-Excel, Git, GitHub
-- **Database/Datawarehouse**": BigQuery, MySQL, Azure Data Lake Gen2
+- **Programming Languages**: Python, SQL
+- **Visualization Tools and Libraries**: Tableau, MS-Excel, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Databases**: Google Cloud Datastore, BigQuery, Firestore, Azure Data Lake Gen2
+- **Developer Tools**: Git, SSMS, Mage-Ai, Jira, Azure Data Factory, Azure Databricks, Postman
+- **Interpersonal Skills**: Client Interaction and Relationship building, Consultation, Teamwork, Written & Verbal Communication
+
 
 ---
 
