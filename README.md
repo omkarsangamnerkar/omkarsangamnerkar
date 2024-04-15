@@ -27,9 +27,9 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming, Cloud Computing & Big Data**: Python(TensorFlow, PyTorch, Scikit-Learn, PySpark, Pandas, NumPy), SQL(PostgreSQL)
+- **Programming**: Python(TensorFlow, PyTorch, Scikit-Learn, PySpark, Pandas, NumPy), SQL(PostgreSQL)
 - **Machine Learning**: Supervised & Unsupervised Learning, Predictive Modeling, Time Series Analysis, Feature Engineering, Model Evaluation, Model Tuning, Validation Methods, Optimization Techniques, Hyperparameter Tunin:
-- **DevOps, Data Visualization & MLOps**: Mage-Ai, Databricks, Tableau, MS-Excel, Git, GitHub
+- **DevOps, Data Visualization & MLOps**: Mage-Ai(ETL), Databricks, Tableau, MS-Excel, Git, GitHub
 - **Database/Datawarehouse**": BigQuery, MySQL, Azure Data Lake Gen2
 
 ---
