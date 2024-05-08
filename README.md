@@ -27,7 +27,7 @@
 ---
 
 ### 🛠 Core Skills:
-- **Programming Languages**: Python, SQL
+- **Programming Languages and Concepts**: Python, SQL, Machine Learning Algorithms(Novice)
 - **Visualization Tools and Libraries**: Tableau, MS-Excel, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 - **Databases**: Google Cloud Datastore, BigQuery, Firestore, Azure Data Lake Gen2
 - **Developer Tools**: Git, SSMS, Mage-Ai, Jira, Azure Data Factory, Azure Databricks, Postman
