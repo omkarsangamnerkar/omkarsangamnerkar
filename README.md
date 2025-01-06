@@ -1,6 +1,5 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="Languages I Use" /></p>
 
-<h2 align="center">I'm Omkar Sangamnerkar, Welcome to my Github</h2>
 
 <p align='center'>
   🎓 <strong>Data Science Graduate from University of Maryland, Baltimore County</strong> 🎓<br/>
